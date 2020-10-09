@@ -7,16 +7,18 @@ Michael is a Cartographer and Data Services Production Manager with 14 years of 
 
 ![michael-mcneil-headshot](/images/michael-mcneil-headshot.jpg "Michael McNeil")
 
-## Point-form Bio
+### Point-form Bio
 
 goes here
 
-## Paragraph Bio
+### Paragraph Bio
 
 200-300 words goes here
 
-## Projects
+### Projects
 
 2-to-5 sentence description of any highlights
 
-## Skills, Experience, and Level of Expertise
+### Skills, Experience, and Level of Expertise
+
+list goes here
