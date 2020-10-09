@@ -21,20 +21,21 @@ two-to-five sentence description of any projects
 
 ### Skills, Experience, and Level of Expertise
 
-Skills
+**Skills**
 
-  * ArcGIS, QGIS
+  * ArcGIS
+  * QGIS
   * Python
   * LeafletJS
   * CSS / HTML
   * Markdown
 
-Experience
+**Experience**
 
   * 14 years of professional experience as a cartographer, GIS Analyst, and GIS Manager
   * Master's Degree in Digital Mapping from the University of Kentucky
   * Bachelor's Degree in Geography from Louisiana State University
 
-Level of Expertise
+**Level of Expertise**
 
   * goes here
