@@ -13,12 +13,26 @@ goes here
 
 ### Paragraph Bio
 
-200-300 words goes here
+200-300 words
 
 ### Projects
 
-2-to-5 sentence description of any highlights
+two-to-five sentence description of any projects
 
 ### Skills, Experience, and Level of Expertise
 
-list goes here
+Skills
+
+..* ArcGIS, QGIS
+..* Python
+..* LeafletJS
+
+Experience
+
+..* 14 years of professional experience as a cartographer, GIS Analyst, and GIS Manager
+..* Master's Degree in Digital Mapping from the University of Kentucky
+..* Bachelor's Degree in Geography from Louisiana State University
+
+Level of Expertise
+
+..* goes here
