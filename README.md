@@ -33,9 +33,15 @@ In addition to leading a team, Michael also produced a number of print and digit
 
 ### Projects
 
-two-to-five sentence description of any projects
+**Parcel Map Production**
 
-### Skills, Experience, and Level of Expertise
+Designed and implemented the architecture of a Geographic Information System for a government agency for the purpose of collecting and mapping parcel boundaries within the agency's jurisdiction. Wrote and maintained a comprehensive guidance manual, dictating data standards, data collection procedures, and best practices for use by office staff. Helped create a public-facing, interactive web map of all property boundaries within the jurisdiction. Parcel boundaries on this web map can be clicked on by users to retrieve more information about the property, including ownership, address, and property description information.
+
+**Building Footprint Change Detection Analysis**
+
+Used change detection analysis to visualize building footprint changes over a four-year period for the municipality of Mandeville, Louisiana. Created an interactive web map using LeafletJS to share this analysis with the public. On the web map, the building footprints are color-coded by change status (existing or unchanged building, new, changed, or demolished) and each footprint can be clicked on for more information about the structure.
+
+### Skills & Experience
 
 **Skills**
 
@@ -51,9 +57,5 @@ two-to-five sentence description of any projects
   * More than 14 years of professional experience as a cartographer, GIS Analyst, and Data Services Manager
   * Master's Degree in Digital Mapping from the University of Kentucky
   * Bachelor's Degree in Geography from Louisiana State University
-
-**Level of Expertise**
-
-  * goes here
   
 ![michael-mcneil](/images/michael-mcneil.jpg "Michael McNeil")
