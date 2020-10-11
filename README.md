@@ -39,3 +39,5 @@ two-to-five sentence description of any projects
 **Level of Expertise**
 
   * goes here
+  
+![michael-mcneil](/images/michael-mcneil.jpg "Michael McNeil")
