@@ -9,7 +9,15 @@ Michael is a Cartographer and Data Services Production Manager with 14 years of 
 
 ### Point-form Bio
 
-goes here
+Michael McNeil
+
+*GIS Developer*
+
+More than 14 years of experience as a geospatial developer and cartographer in both the private and public sectors with extensive knowledge of a number of GIS applications and programming languages, including ArcGIS, QGIS, Python, and LeafletJS.
+
+Master's Degree in Digital Mapping from the University of Kentucky.
+
+Cartographic experience includes high quality print and digital map production, interactive mapping, and unique data visualizations.
 
 ### Paragraph Bio
 
