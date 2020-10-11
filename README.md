@@ -3,13 +3,13 @@ For: Briana Brownell / Pure Strategy
 
 ## Summary
 
-Michael is a Cartographer and Data Services Production Manager with 14 years of experience delivering geospatial and other data-related solutions for clients in both the public and private sectors.
+Michael is a Cartographer and Data Services Production Manager with more than 14 years of experience delivering geospatial and other data-related solutions for clients in both the public and private sectors. He has significant experience with a number of GIS applications and programming languages, and has a Master's Degree in Digital Mapping from the University of Kentucky.
 
 ![michael-mcneil-headshot](/images/michael-mcneil-headshot.jpg "Michael McNeil")
 
 ### Point-form Bio
 
-Michael McNeil
+**Michael McNeil**
 
 *GIS Developer*
 
@@ -21,7 +21,10 @@ Cartographic experience includes high quality print and digital map production, 
 
 ### Paragraph Bio
 
-200-300 words
+**Michael McNeil**
+*Project Role: GIS Developer*
+
+200-300 words here
 
 ### Projects
 
